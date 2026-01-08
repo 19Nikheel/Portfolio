@@ -1,5 +1,5 @@
-import logo from "../../public/split.png";
-import elib from "../../public/image.png";
+import logo from "../assets/split.png";
+import elib from "../assets/image.png";
 
 const projectsData = [
   {

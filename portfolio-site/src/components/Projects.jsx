@@ -1,7 +1,6 @@
 import { useState, lazy, Suspense } from "react";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
-import logo from "../../public/split.png";
 import projectsData from "../data/projectsData";
 
 // Lazy load TechnologyTimeline

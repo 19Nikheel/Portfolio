@@ -1,4 +1,4 @@
-import logo from "../assets/split.png";
+import logo from "../assets/Split.png";
 import elib from "../assets/image.png";
 
 const projectsData = [
